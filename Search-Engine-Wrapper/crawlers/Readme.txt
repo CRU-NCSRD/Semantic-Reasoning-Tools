@@ -1,0 +1,13 @@
+Jars:
+commons-codec-1.6.jar
+commons-io-2.4.jar
+htmllexer.jar
+htmlparser.jar
+httpclient-4.3.1.jar
+httpcore-4.3.jar
+sax2.jar
+junit.jar
+filterbuilder.jar
+thumbelina.jar
+boilerpipe-1.2.0.jar
+azure-bing-search-java-0.11.0.jar
